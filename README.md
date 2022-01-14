@@ -1,3 +1,18 @@
+# Amazon clone
+
+This is a simple low-level frontend clone of the Amazon website.
+
+## Technologies used
+
+ - React
+ - Firebase (for authentication)
+ 
+## Features
+
+ 1. User authentication (User has to login/Signup before proceeding to the checkout).
+ 2. Adding items to the cart
+ 3. The total of the added items gets auto-updated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
