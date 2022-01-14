@@ -1,0 +1,38 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+  }
+  
+  .checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+
+  .checkout__right {
+    border: 1px;
+    height: max-content;
+    text-align: center;
+    padding: 5px;
+    width: 20%;
+    box-shadow: 5px 7px 8px 7px #888888;
+  }
+
+  .button-1{
+    border-radius: 5px;
+    height: 2rem;
+    width: 15rem;
+    border-style: none;
+    background-color:#ffd814;
+  }
+
+  .button-1:hover{
+    background-color: #fec76f;
+  }
