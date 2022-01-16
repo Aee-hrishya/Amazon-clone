@@ -2,7 +2,7 @@ import './App.css';
 import Header from './Components/Header';
 import Home from './Pages/Home';
 import Cart from './Pages/Cart';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import SignIn from './Pages/Signin';
 
 //firebase
